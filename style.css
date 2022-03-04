@@ -1,0 +1,26 @@
+
+h1{
+    color: rgb(52, 212, 105);
+}
+
+div{
+    box-sizing: border-box;
+    background-color: rgb(223, 241, 241);
+    height: 400px;
+    width: 500px;
+    text-align: center;
+    margin: 0px auto;
+    margin-bottom: 50px;
+
+}
+
+
+.class{
+
+    color: rgb(255, 136, 0);
+    padding: 10px;
+    text-align: justify;
+    text-align: center;
+
+
+}
